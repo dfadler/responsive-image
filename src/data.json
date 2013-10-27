@@ -1,0 +1,26 @@
+[
+    {
+        "width": 320,
+        "url": "http://placehold.it/320x320"
+    },
+
+    {
+        "width": 640,
+        "url": "http://placehold.it/640X640"
+    },
+
+    {
+        "width": 960,
+        "url": "http://placehold.it/960x960"
+    },
+
+    {
+        "width": 1200,
+        "url": "http://placehold.it/1200x1200"
+    },
+
+    {
+        "width": 1900,
+        "url": "http://placehold.it/1900x1900"
+    }
+]
