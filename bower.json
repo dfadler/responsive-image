@@ -9,6 +9,7 @@
   "dependencies": {
     "requirejs": "latest",
     "jquery": "latest",
-    "text": "latest"
+    "text": "latest",
+    "underscore": "latest"
   }
 }
